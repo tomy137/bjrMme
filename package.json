@@ -1,0 +1,20 @@
+{
+  "name": "bjrMme",
+  "version": "1.0.0",
+  "description": "Download the lady of the day",
+  "main": "bin/run.js",
+  "bin": {
+    "bjrMme": "run.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "fs": "^0.0.2",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomy137",
+  "license": "ISC"
+}
